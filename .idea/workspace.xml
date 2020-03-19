@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec6e9fc-266a-42fc-8258-45c5c065fa1b" name="Default Changelist" comment="" />
+    <list default="true" id="cec6e9fc-266a-42fc-8258-45c5c065fa1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/StringUsingApiProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/StringSaveProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/StringSaveProcess.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +33,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/QMM1911889008QQ/JavaPointProject.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Uhn7h803BiZqOY6RmAepVFTurB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +54,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_les_example" />
@@ -50,7 +69,7 @@
       <recent name="C:\Users\Administrator\IdeaProjects\JavaPointProject\src\JavaMain\com\com\qmm\javaword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringSaveProcess">
+  <component name="RunManager" selected="Application.StringUsingApiProcess">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="JavaPointProject" />
@@ -81,8 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringUsingApiProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qmm.javaword.process.StringUsingApiProcess" />
+      <module name="JavaPointProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qmm.javaword.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringUsingApiProcess" />
         <item itemvalue="Application.StringSaveProcess" />
         <item itemvalue="Application.StringProcess" />
       </list>
@@ -114,12 +147,23 @@
       <workItem from="1575818625469" duration="964000" />
       <workItem from="1575978387663" duration="533000" />
       <workItem from="1584505012977" duration="612000" />
-      <workItem from="1584506285871" duration="7455000" />
+      <workItem from="1584506285871" duration="19926000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Inspections" timestamp="1584521244690">
@@ -134,21 +178,43 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584517856691" />
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1584524005785">
+    <state width="715" height="108" key="GridCell.Tab.0.bottom" timestamp="1584601765352">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584524005785" />
-    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1584524005785">
+    <state width="715" height="108" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584601765352" />
+    <state width="715" height="108" key="GridCell.Tab.0.center" timestamp="1584601765352">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584524005785" />
-    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1584524005784">
+    <state width="715" height="108" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584601765352" />
+    <state width="715" height="108" key="GridCell.Tab.0.left" timestamp="1584601765351">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584524005784" />
-    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1584524005785">
+    <state width="715" height="108" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584601765351" />
+    <state width="715" height="108" key="GridCell.Tab.0.right" timestamp="1584601765352">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584524005785" />
+    <state width="715" height="108" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584601765352" />
+    <state x="784" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584527600190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="784" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584527600190" />
+    <state x="647" y="166" key="run.anything.popup" timestamp="1584526541083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="647" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584526541083" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/StringUsingApiProcess.java</url>
+          <line>3</line>
+          <properties class="com.qmm.javaword.process.StringUsingApiProcess" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
