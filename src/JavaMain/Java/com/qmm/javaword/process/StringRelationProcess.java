@@ -55,7 +55,8 @@ public class StringRelationProcess {
         适合做缓存的 Key，因为字符串不可变，因此它的哈希值也就不变；
         创建时它的哈希值就被缓存了，不需要重新计算，速度更快。
 
-        4.String 是否可以被继承 String 不能被继承。
+        4.String 是否可以被继承
+        String 不能被继承。
         因为 String 被声明为 final，所以不能被继承。
         八种包装类型都不会被继承
          */
