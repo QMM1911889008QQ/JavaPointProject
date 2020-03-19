@@ -24,16 +24,11 @@ public class StringRelationProcess {
         s2 += ", world!";
         String s3 = "hello, world!";
         String s4 = s2.intern();
-        System.out.println(s1 == s2);
-        System.out.println(s1 == s3);
-        System.out.println(s1 == s4);
-        System.out.println(s2 == s3);
-        System.out.println(s2 == s4);
-        //        false
-        //        true
-        //        true
-        //        false
-        //        false
+        System.out.println(s1 == s2);//        false
+        System.out.println(s1 == s3);//        true
+        System.out.println(s1 == s4);//        true
+        System.out.println(s2 == s3);//        false
+        System.out.println(s2 == s4);//        false
         /*
         1.String / StringBuffer / StringBuilder 的区别
         String 为不可变字符串；
