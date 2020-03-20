@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec6e9fc-266a-42fc-8258-45c5c065fa1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArrayInsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArrayInsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/ArrayBubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArrayBubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/ArraySelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/ArraySelectSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArraySelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArraySelectSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +70,22 @@
       <recent name="C:\Users\Administrator\IdeaProjects\JavaPointProject\src\JavaMain\com\com\qmm\javaword" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayInsertSort">
+  <component name="RunManager" selected="Application.ArrayBubbleSort">
     <configuration name="ArrayApplyProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qmm.javaword.process.ArrayApplyProcess" />
+      <module name="JavaPointProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qmm.javaword.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayBubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qmm.javaword.process.ArrayBubbleSort" />
       <module name="JavaPointProject" />
       <extension name="coverage">
         <pattern>
@@ -129,26 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRelationProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qmm.javaword.process.StringRelationProcess" />
-      <module name="JavaPointProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qmm.javaword.process.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayBubbleSort" />
         <item itemvalue="Application.ArrayInsertSort" />
         <item itemvalue="Application.ArraySelectSort" />
         <item itemvalue="Application.ArrayApplyProcess" />
         <item itemvalue="Application.ArrayRelationApiProcess" />
-        <item itemvalue="Application.StringRelationProcess" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +183,7 @@
       <workItem from="1575978387663" duration="533000" />
       <workItem from="1584505012977" duration="612000" />
       <workItem from="1584506285871" duration="43718000" />
-      <workItem from="1584688332835" duration="7850000" />
+      <workItem from="1584688332835" duration="10713000" />
     </task>
     <servers />
   </component>
@@ -212,22 +216,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584517856691" />
-    <state width="1323" height="282" key="GridCell.Tab.0.bottom" timestamp="1584712007585">
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1584715849575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584712007585" />
-    <state width="1323" height="282" key="GridCell.Tab.0.center" timestamp="1584712007585">
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584715849575" />
+    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1584715849575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="282" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584712007585" />
-    <state width="1323" height="282" key="GridCell.Tab.0.left" timestamp="1584712007584">
+    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584715849575" />
+    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1584715849574">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="282" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584712007584" />
-    <state width="1323" height="282" key="GridCell.Tab.0.right" timestamp="1584712007585">
+    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584715849574" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1584715849575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="282" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584712007585" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584715849575" />
     <state width="676" height="219" key="GridCell.Tab.1.bottom" timestamp="1584635615472">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

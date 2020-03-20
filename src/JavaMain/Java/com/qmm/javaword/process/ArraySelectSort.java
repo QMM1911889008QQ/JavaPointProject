@@ -17,9 +17,10 @@ public class ArraySelectSort {
     最后排序结果:13 27 38 49 65 76 97
      */
     public static void main(String[] args){
+        int i ;
         int a[] ={38,65,97,76,13,27,49};
         selectSort(a);
-        for(int i=0;i<a.length;i++){
+        for(i=0;i<a.length;i++){
             System.out.println(a[i]+" ");
         }
     }
