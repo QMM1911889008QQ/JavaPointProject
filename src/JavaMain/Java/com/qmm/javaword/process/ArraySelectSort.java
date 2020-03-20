@@ -22,27 +22,26 @@ public class ArraySelectSort {
         selectSort(a);
         for(i=0;i<a.length;i++){
             System.out.println(a[i]+" ");
-            System.out.println("\n");
         }
     }
     public static void selectSort(int[] a){
         int i;
         int j;
         int temp = 0;
-        int flag = 0;
-        int n = a.length;
-        for(i = 0; i<n; i++){
+        int f = 0;
+       // int n = a.length;
+        for(i = 0; i<a.length; i++){
             temp = a[i];
-            flag = i;
-            for(j=i+1;j<n;j++){
+            f = i;
+            for(j=i+1;j<a.length;j++){
                 if(a[j] < temp){
                     temp = a[j];
-                    flag = j;
+                    f = j;
                 }
             }
-            if(flag !=i){
-                a[flag] = a[i];
-                a[i]=temp;
+            if(f !=i){
+                a[f] = a[i];
+                a[i] = temp;
             }
         }
     }
