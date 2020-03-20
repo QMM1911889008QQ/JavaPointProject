@@ -16,12 +16,10 @@ public class ArrayBubbleSort {
     第五趟排序后:[12,25,25],36,43,48,57,65
     第六趟排序后:[12,25],25,36,43,48,57,65
     第七趟排序后:[12],25,25,36,43,48,57,65
-    最后排序结果:12,25,25,36,43,48,57,65
      */
     public static void bubbleSort(int [] array){
-        int i,j;
+        int i,j,tmp;
         int len = array.length;
-        int tmp;
         for(i=0; i <len - 1;++i){
             for(j = len-1; j > i; --j){
                 if(array[j] < array[j-1]){

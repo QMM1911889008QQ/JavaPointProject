@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec6e9fc-266a-42fc-8258-45c5c065fa1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/ArrayBubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArrayBubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/ArraySelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPointProject/com/qmm/javaword/process/ArraySelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArraySelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArraySelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArrayBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMain/Java/com/qmm/javaword/process/ArrayBubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +180,7 @@
       <workItem from="1575978387663" duration="533000" />
       <workItem from="1584505012977" duration="612000" />
       <workItem from="1584506285871" duration="43718000" />
-      <workItem from="1584688332835" duration="10713000" />
+      <workItem from="1584688332835" duration="10819000" />
     </task>
     <servers />
   </component>
