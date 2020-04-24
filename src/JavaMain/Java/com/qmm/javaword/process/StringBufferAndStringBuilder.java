@@ -18,7 +18,7 @@ public class StringBufferAndStringBuilder {
         length  返回当前长度
         setLength  设置字符串长度
     */
-    public static void main(){
+    public static void main(String[] args){
     String str1 = "hello" + "world" + "!";
     System.out.println(str1);
 
